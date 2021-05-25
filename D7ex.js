@@ -4,3 +4,8 @@ function change(){
 
 }
 
+function changeBackground(){
+    const Bg = document.querySelector('body')
+     Bg.style.backgroundColor = 'brown'
+}
+
