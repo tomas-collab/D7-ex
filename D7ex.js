@@ -1,2 +1,6 @@
-let element = document.getElementById('Sm')
-element.innerHTML = 'top ten smartphone'
+function change(){
+    const h1 = document.querySelector('h1')
+    h1.innerText = 'not opening today'
+
+}
+
